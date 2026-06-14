@@ -1,4 +1,4 @@
-# 🌐 Personal Portfolio Website – Assignment 4
+# 🌐 Personal Portfolio Website 
 
 A responsive portfolio website developed for the Web Development course.
 
